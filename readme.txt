@@ -1,3 +1,5 @@
+https://zhuanlan.zhihu.com/p/8910239301
+
 创建版本库：
 $ mkdir learngit //创建文件夹learngit 
 $ cd learngit
